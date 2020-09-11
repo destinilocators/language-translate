@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/language-translator/static/css/main.8f2f2229.chunk.css",
+    "main.js": "/language-translator/static/js/main.4a2201be.chunk.js",
+    "main.js.map": "/language-translator/static/js/main.4a2201be.chunk.js.map",
+    "runtime-main.js": "/language-translator/static/js/runtime-main.3a7e4590.js",
+    "runtime-main.js.map": "/language-translator/static/js/runtime-main.3a7e4590.js.map",
+    "static/js/2.3f213035.chunk.js": "/language-translator/static/js/2.3f213035.chunk.js",
+    "static/js/2.3f213035.chunk.js.map": "/language-translator/static/js/2.3f213035.chunk.js.map",
+    "index.html": "/language-translator/index.html",
+    "precache-manifest.5d13860386e802ec83993cf622e1daff.js": "/language-translator/precache-manifest.5d13860386e802ec83993cf622e1daff.js",
+    "service-worker.js": "/language-translator/service-worker.js",
+    "static/css/main.8f2f2229.chunk.css.map": "/language-translator/static/css/main.8f2f2229.chunk.css.map",
+    "static/js/2.3f213035.chunk.js.LICENSE.txt": "/language-translator/static/js/2.3f213035.chunk.js.LICENSE.txt",
+    "static/media/destinilogo.svg": "/language-translator/static/media/destinilogo.e5520ef9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a7e4590.js",
+    "static/js/2.3f213035.chunk.js",
+    "static/css/main.8f2f2229.chunk.css",
+    "static/js/main.4a2201be.chunk.js"
+  ]
+}
